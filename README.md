@@ -1,1 +1,1 @@
-# ntuee_computer_architecture_2024spring
+# ntuee_computer_vision_2024spring
