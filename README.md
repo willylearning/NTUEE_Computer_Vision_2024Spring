@@ -4,7 +4,7 @@
 Part 1: Scale Invariant Feature Detection  
 * Implement Difference of Gaussian (DoG)
 <bf>
-Part 2: Image Filtering  
+Part 2: Image Filtering
 * Advanced color-to-gray conversion  
 * Implement bilateral filter
 
@@ -15,18 +15,18 @@ Part 2: CNN Image Classification
 
 ## HW3
 ### Projective Geometry
-Part 1: Homography Estimation  
+Part 1: Homography Estimation
 * Familiar DLT estimation method
 * Practice forward warping
 <bf>
-Part 2: Marker-Based Planar AR  
+Part 2: Marker-Based Planar AR
 * Familiar with off-the-shelf ArUco marker detection tool  
 * Practice backward warping
 <bf>
-Part 3: Unwarp the Secret  
+Part 3: Unwarp the Secret
 * What can go wrong with practical homography?
 <bf>
-Part 4: Panorama  
+Part 4: Panorama
 * RANSAC
 
 ## HW4
