@@ -34,3 +34,4 @@ Part 4: Panorama
 
 ## Final Project
 ### Global Motion Compensation by MEDIATEK
+See CV_final/CV24S_MediaTek.pdf for more details
