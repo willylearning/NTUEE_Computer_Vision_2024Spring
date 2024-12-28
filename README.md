@@ -1,1 +1,1 @@
-# ntuee_computer_vision_2024spring
+# NTUEE Computer Vision 2024 Spring
