@@ -2,14 +2,17 @@
 ## HW1
 ### Scale Invariant Feature Detection and Image Filtering  
 Part 1: Scale Invariant Feature Detection  
-* Implement Difference of Gaussian (DoG)  
+* Implement Difference of Gaussian (DoG)
+<bf>
 Part 2: Image Filtering  
 * Advanced color-to-gray conversion  
 * Implement bilateral filter
+
 ## HW2
 ### Recognition/Classification
 Part 1: Bag-of-Words Scene Recognition  
 Part 2: CNN Image Classification
+
 ## HW3
 ### Projective Geometry
 Part 1: Homography Estimation  
@@ -24,8 +27,10 @@ Part 3: Unwarp the Secret
 * What can go wrong with practical homography?
 <bf>
 Part 4: Panorama  
-* RANSAC  
+* RANSAC
+
 ## HW4
 ### Stereo Matching
+
 ## Final Project
 ### Global Motion Compensation by MEDIATEK
