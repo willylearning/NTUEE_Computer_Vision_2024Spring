@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+pillow
+transformers
+torch
+tqdm
+scipy
+scikit-image
+

@@ -1,0 +1,2 @@
+PSNR: 44.94965
+Complexity: MAC=0
