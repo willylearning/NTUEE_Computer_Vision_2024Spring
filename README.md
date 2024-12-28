@@ -12,15 +12,15 @@ Part 1: Bag-of-Words Scene Recognition
 Part 2: CNN Image Classification
 ## HW3
 ### Projective Geometry
-Part 1: Homography Estimation
-• Familiar DLT estimation method
+Part 1: Homography Estimation  
+• Familiar DLT estimation method  
 • Practice forward warping  
-Part 2: Marker-Based Planar AR
-• Familiar with off-the-shelf ArUco marker detection tool
+Part 2: Marker-Based Planar AR  
+• Familiar with off-the-shelf ArUco marker detection tool  
 • Practice backward warping  
-Part 3: Unwarp the Secret
+Part 3: Unwarp the Secret  
 • What can go wrong with practical homography?  
-Part 4: Panorama
+Part 4: Panorama  
 • RANSAC
 ## Final Project
 Global Motion Compensation by MEDIATEK
