@@ -23,6 +23,6 @@ Part 3: Unwarp the Secret
 Part 4: Panorama  
 • RANSAC  
 ## HW4
-Stereo Matching
+### Stereo Matching
 ## Final Project
-Global Motion Compensation by MEDIATEK
+### Global Motion Compensation by MEDIATEK
