@@ -14,12 +14,15 @@ Part 2: CNN Image Classification
 ### Projective Geometry
 Part 1: Homography Estimation  
 * Familiar DLT estimation method
-* Practice forward warping  
+* Practice forward warping
+<bf>
 Part 2: Marker-Based Planar AR  
 * Familiar with off-the-shelf ArUco marker detection tool  
-* Practice backward warping  
+* Practice backward warping
+<bf>
 Part 3: Unwarp the Secret  
-* What can go wrong with practical homography?  
+* What can go wrong with practical homography?
+<bf>
 Part 4: Panorama  
 * RANSAC  
 ## HW4
