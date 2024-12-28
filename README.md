@@ -21,6 +21,8 @@ Part 2: Marker-Based Planar AR
 Part 3: Unwarp the Secret  
 • What can go wrong with practical homography?  
 Part 4: Panorama  
-• RANSAC
+• RANSAC  
+## HW4
+Stereo Matching
 ## Final Project
 Global Motion Compensation by MEDIATEK
